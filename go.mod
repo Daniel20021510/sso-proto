@@ -1,4 +1,4 @@
-module  github.com/Daniel20021510/sso-proto
+module github.com/Daniel20021510/sso-proto
 
 go 1.22
 
